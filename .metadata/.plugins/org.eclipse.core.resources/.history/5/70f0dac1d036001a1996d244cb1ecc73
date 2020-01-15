@@ -1,0 +1,33 @@
+package lt.pra_va.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
+import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import it.akademija.model.Role;
+import it.akademija.model.User;
+import lt.pra_va.dao.UserRepository;
+
+@Service
+public class CreateUserService {
+
+	@Autowired
+	private UserRepository userRepository;
+
+	@Transactional
+	public void createUser(String email, String password) {
+		User newUser = new User();
+		newUser.setEmail(email);
+
+		PasswordEncoder encoder = new BCryptPasswordEncoder();
+
+		newUser.setPasswordString(encoder.encode(password));
+
+		Role role = new Role();
+		role.setName("CALC");
+		newUser.setRole(role);
+		userRepository.save(newUser);
+	}
+}

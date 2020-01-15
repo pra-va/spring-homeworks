@@ -1,0 +1,35 @@
+1575833705039	Rename type 'ShopApplication'
+1575833757925	Delete element
+1575834318164	Rename package 'lt.pra_va.controller'
+1575834341289	Rename package 'lt.pra_va.model'
+1575835548431	Rename type 'UserDao'
+1575899241760	Delete element
+1575915725916	Delete element
+1575916038397	Delete element
+1575916040862	Delete element
+1576087044418	Delete element
+1576087050062	Delete element
+1576089219534	Delete element
+1576093284281	Delete element
+1576139109157	Rename field 'imageUrlString'
+1576242230175	Rename method 'addSingleProduct'
+1576242347637	Delete element
+1576243195351	Copy compilation unit
+1576243205930	Rename type 'CreateProductCommand'
+1576244042971	Delete element
+1576251128783	Copy compilation unit
+1576251156288	Rename type 'Product'
+1576251603705	Delete element
+1576254454609	Delete element
+1576254461209	Delete element
+1576254463268	Delete element
+1576330481264	Delete element
+1576344386701	Delete element
+1576344395650	Delete element
+1576348391149	Delete element
+1576352284917	Rename package 'lt.pra_va.carts'
+1576352291965	Delete element
+1576352316526	Rename package 'lt.pra_va.carts'
+1576352319867	Delete element
+1576352332665	Rename package 'lt.pra_va.carts'
+1576352348035	Rename package 'lt.pra_va.products'

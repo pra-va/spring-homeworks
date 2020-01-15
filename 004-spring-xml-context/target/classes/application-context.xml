@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+http://www.springframework.org/schema/context
+http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+	<!-- <context:annotation-config /> -->
+	<!-- <context:component-scan base-package="lt.itmokymai.spring" /> -->
+	<context:property-placeholder
+		location="classpath:sport.properties" />
+	
+
+	<bean id="myFortune" class="lt.pra_va.HappyFortuneService" />
+
+	<bean id="myCoach" class="lt.pra_va.TrackCoach">
+		<constructor-arg ref="myFortune"></constructor-arg>
+	</bean>
+
+	<bean id="myCricketCoach" class="lt.pra_va.CricketCoach">
+		<property name="fortuneService" ref="myFortune" />
+		<property name="email" value="${foo.email}" />
+		<property name="team" value="${foo.team}" />
+	</bean>
+
+	<bean id="randomFortune" class="lt.pra_va.RandomFortuneService">
+		<constructor-arg value="${good}"></constructor-arg>
+		<constructor-arg value="${bad}"></constructor-arg>
+		<constructor-arg value="${medium}"></constructor-arg>
+	</bean>
+
+	<bean id="myBaseballCoach" class="lt.pra_va.BaseballCoach">
+		<constructor-arg ref="randomFortune" />
+	</bean>
+
+
+
+
+</beans>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+	http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="ServiceCBean" class="lt.itmokymai.spring.ServiceC">
+		<property name="items">
+			<list>
+				<bean class="lt.itmokymai.spring.Product">
+					<property name="title" value="Banana" />
+					<property name="price" value="1.23" />
+					<property name="quantity" value="50" />
+					<property name="description" value="Tasty banana" />
+					<property name="imageUrl" value="www.banana-pictures.com" />
+				</bean>
+				<bean class="lt.itmokymai.spring.Product">
+					<property name="title" value="Tomato" />
+					<property name="price" value="2.28" />
+					<property name="quantity" value="100" />
+					<property name="description" value="Juicy tomato" />
+					<property name="imageUrl" value="www.tomato-pictures.com" />
+				</bean>
+				<bean class="lt.itmokymai.spring.Product">
+					<property name="title" value="Apple" />
+					<property name="price" value="0.36" />
+					<property name="quantity" value="1000" />
+					<property name="description" value="Sour apple" />
+					<property name="imageUrl" value="www.apple-pictures.com" />
+				</bean>
+			</list>
+
+		</property>
+	</bean>
+</beans>

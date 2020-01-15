@@ -1,0 +1,9 @@
+1576433680329	Rename package 'lt.egzaminas.examProduct'
+1576433701804	Rename type 'CreateProductCommand'
+1576433709943	Rename type 'Product'
+1576433722319	Delete element
+1576433798145	Rename type 'ExamRepository'
+1576433806049	Rename type 'ExamController'
+1576433820700	Rename type 'ProductService'
+1576434987632	Rename type 'Type'
+1576434998061	Rename type 'Category'

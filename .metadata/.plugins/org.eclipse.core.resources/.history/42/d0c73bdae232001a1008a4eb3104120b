@@ -1,0 +1,21 @@
+package lt.prava.users.model;
+
+import javax.persistence.CascadeType;
+import javax.persistence.Column;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
+import javax.validation.constraints.Email;
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Size;
+
+public class CreateUserModel {
+	private String username;
+
+	private String password;
+
+	private String email;
+
+	private Role role;
+
+}

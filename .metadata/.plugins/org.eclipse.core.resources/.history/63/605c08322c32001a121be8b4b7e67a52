@@ -1,0 +1,30 @@
+package lt.prava.users.model;
+
+import javax.management.relation.Role;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Table;
+import javax.validation.constraints.Email;
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Size;
+
+@Entity(name = "User")
+@Table(name = "user")
+public class User {
+
+	@NotBlank
+	@Column
+	private String username;
+
+	@NotBlank
+	@Size(min = 6)
+	@Column
+	private String password;
+
+	@Email
+	@Column
+	private String email;
+
+	private Role role;
+
+}

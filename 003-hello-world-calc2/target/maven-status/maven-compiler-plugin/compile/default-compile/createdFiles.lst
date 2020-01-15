@@ -1,0 +1,13 @@
+it/akademija/PagingData.class
+it/akademija/service/UserService.class
+it/akademija/service/JpaUserService.class
+it/akademija/model/User.class
+it/akademija/CorsConfig.class
+it/akademija/App.class
+it/akademija/AppConfig.class
+it/akademija/dao/UserRepository.class
+it/akademija/controller/UserController.class
+it/akademija/model/CreateUserCommand.class
+it/akademija/dao/UserData.class
+it/akademija/Product.class
+it/akademija/dao/DBUsersRepository.class

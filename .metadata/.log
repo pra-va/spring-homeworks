@@ -1,0 +1,2662 @@
+!SESSION 2020-01-15 11:59:46.602 -----------------------------------------------
+eclipse.buildId=4.5.0.201912171052-RELEASE
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+This is a continuation of log file /home/pra-va/programavimas/005-technologijos/003-spring/.metadata/.bak_0.log
+Created Time: 2020-01-15 12:12:12.784
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.784
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.784
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.786
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.787
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.787
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.787
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.789
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.789
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.789
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.789
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.791
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.792
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.792
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.793
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.795
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.797
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.797
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.797
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.799
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.800
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.800
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.801
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.803
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.803
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.803
+!MESSAGE executing callback sts4.classpath.sfESqfMJ 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:12.819
+!MESSAGE executing callback sts4.classpath.sfESqfMJ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.789
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.790
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.793
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.794
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.794
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.795
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.798
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.799
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.799
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.800
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.803
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.804
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.805
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.805
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.808
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.809
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.809
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.809
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.812
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.813
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.813
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.813
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.815
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.816
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.816
+!MESSAGE executing callback sts4.classpath.sfESqfMJ 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:13.833
+!MESSAGE executing callback sts4.classpath.sfESqfMJ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.823
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.824
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.826
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.828
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.828
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.828
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.830
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.832
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.832
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.832
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.834
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.835
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.835
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.836
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.838
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.840
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.840
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.840
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.842
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.844
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.844
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.845
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.847
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.848
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.848
+!MESSAGE executing callback sts4.classpath.sfESqfMJ 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:14.874
+!MESSAGE executing callback sts4.classpath.sfESqfMJ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.935
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.935
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.938
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.939
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.939
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.939
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.941
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.942
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.942
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.943
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.944
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.945
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.945
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.945
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.947
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.948
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.948
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.948
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.950
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.951
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.951
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.951
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.953
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.954
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.954
+!MESSAGE executing callback sts4.classpath.sfESqfMJ 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:12:16.977
+!MESSAGE executing callback sts4.classpath.sfESqfMJ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.434
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.435
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.437
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.438
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.438
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.438
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.440
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.441
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.442
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.442
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.444
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.445
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.445
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.445
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.447
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.448
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.448
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.448
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.450
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.452
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.452
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.452
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.454
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.456
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.456
+!MESSAGE executing callback sts4.classpath.sfESqfMJ 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:13.481
+!MESSAGE executing callback sts4.classpath.sfESqfMJ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.808
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.808
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.810
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.812
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.812
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.812
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.814
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.815
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.815
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.815
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.817
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.817
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.817
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.817
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.819
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.819
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.820
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.820
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.821
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.822
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.822
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.822
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.824
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.824
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.824
+!MESSAGE executing callback sts4.classpath.sfESqfMJ 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:14:14.837
+!MESSAGE executing callback sts4.classpath.sfESqfMJ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.259
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.259
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.261
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.262
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.262
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.263
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.264
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.266
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.266
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.266
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.267
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.268
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.268
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.268
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.270
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.271
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.271
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.271
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.272
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.273
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.273
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.273
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.275
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.275
+!MESSAGE buffering callback sts4.classpath.sfESqfMJ 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.275
+!MESSAGE executing callback sts4.classpath.sfESqfMJ 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:15:35.290
+!MESSAGE executing callback sts4.classpath.sfESqfMJ SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:11.786
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.sfESqfMJ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:11.786
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.sfESqfMJ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:11.786
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:11.787
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.sfESqfMJ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:12.828
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:12.829
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@76e5278a[org.springframework.tooling.boot.ls:1.14.0.201912170939(id=968)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:12.829
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.048
+!MESSAGE Boot LS startup time from start to initialized: 1217ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.070
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.VOMaLyyVisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.071
+!MESSAGE subscribing to classpath changes: sts4.classpath.VOMaLyyV isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.071
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.071
+!MESSAGE subsribers = {sts4.classpath.VOMaLyyV=Send Classpath Notifications(352)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.071
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.072
+!MESSAGE project 016-spring_security ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.072
+!MESSAGE project 001-FirstSpringProject ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.072
+!MESSAGE Preparing classpath changed notification 016-spring_security
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.072
+!MESSAGE project 002-FirstSpringProject-annotations ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.072
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.072
+!MESSAGE project 003-hello-world-calc ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.072
+!MESSAGE project 004-spring-xml-context ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.072
+!MESSAGE project 005-spring-annotations ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.072
+!MESSAGE project 006-user-crud ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.073
+!MESSAGE project 007-demo ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.073
+!MESSAGE project 008-shop ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.073
+!MESSAGE project 009-many-to-many ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.073
+!MESSAGE project 010-book-store-exam ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.073
+!MESSAGE project 011-perlaikymas ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.073
+!MESSAGE project 012-backspace-aplikacija ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.073
+!MESSAGE project 013-security ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.074
+!MESSAGE project 014-spring-security-jdbc ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.074
+!MESSAGE project 015-hello-world-calc ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.074
+!MESSAGE project spring-boot-security ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.074
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.074
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.074
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.VOMaLyyV => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.075
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 016-spring_security false 147
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.075
+!MESSAGE Preparing classpath changed notification 001-FirstSpringProject
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.076
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.076
+!MESSAGE classpath=28 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.077
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 001-FirstSpringProject false 28
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.077
+!MESSAGE Preparing classpath changed notification 002-FirstSpringProject-annotations
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.077
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.077
+!MESSAGE classpath=32 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.078
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 002-FirstSpringProject-annotations false 32
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.078
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.078
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.080
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.081
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.081
+!MESSAGE Preparing classpath changed notification 004-spring-xml-context
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.081
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.081
+!MESSAGE classpath=26 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.082
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 004-spring-xml-context false 26
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.082
+!MESSAGE Preparing classpath changed notification 005-spring-annotations
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.082
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.082
+!MESSAGE classpath=25 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.083
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 005-spring-annotations false 25
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.083
+!MESSAGE Preparing classpath changed notification 006-user-crud
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.083
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.084
+!MESSAGE classpath=110 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.085
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 006-user-crud false 110
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.085
+!MESSAGE Preparing classpath changed notification 007-demo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.085
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.087
+!MESSAGE classpath=121 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.088
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 007-demo false 121
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.088
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.088
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.089
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.090
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.090
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.090
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.091
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.092
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.092
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.093
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.094
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.095
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.095
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.096
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.097
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.098
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.098
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.098
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.100
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.100
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.100
+!MESSAGE Preparing classpath changed notification 013-security
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.100
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.102
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.102
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 013-security false 147
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.102
+!MESSAGE Preparing classpath changed notification 014-spring-security-jdbc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.102
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.103
+!MESSAGE classpath=96 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.103
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 014-spring-security-jdbc false 96
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.103
+!MESSAGE Preparing classpath changed notification 015-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.103
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.104
+!MESSAGE classpath=120 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.105
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 015-hello-world-calc false 120
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.105
+!MESSAGE Preparing classpath changed notification spring-boot-security
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.105
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.105
+!MESSAGE classpath=80 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.106
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV spring-boot-security false 80
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.106
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 17 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:43:14.177
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.032
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.032
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.034
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.035
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.035
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.035
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.037
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.037
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.037
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.038
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.039
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.039
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.040
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.040
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.041
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.041
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.041
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.042
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.043
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.044
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.044
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.044
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.045
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.046
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.046
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:58.069
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.102
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.102
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.104
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.105
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.105
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.105
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.106
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.107
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.107
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.107
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.109
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.109
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.109
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.110
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.111
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.112
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.112
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.112
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.113
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.114
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.114
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.114
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.115
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.116
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.116
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:49:59.141
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.484
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.484
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.486
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.487
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.487
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.488
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.489
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.490
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.490
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.491
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.492
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.493
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.493
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.493
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.494
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.495
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.495
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.495
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.497
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.498
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.498
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.498
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.500
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.501
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.501
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:13.545
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.028
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.028
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.030
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.031
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.031
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.031
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.032
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.033
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.033
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.033
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.035
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.036
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.036
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.037
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.038
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.039
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.039
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.039
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.041
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.042
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.042
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.042
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.044
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.045
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.046
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:51:29.069
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.534
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.534
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.536
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.537
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.537
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.537
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.539
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.540
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.541
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.541
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.543
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.544
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.544
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.544
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.546
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.546
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.547
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.547
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.548
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.549
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.549
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.549
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.551
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.552
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.552
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:45.595
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.615
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.615
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.617
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.618
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.619
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.619
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.621
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.622
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.622
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.622
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.624
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.625
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.625
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.625
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.627
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.628
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.628
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.628
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.630
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.631
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.631
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.631
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.633
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.633
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.633
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 12:54:46.649
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.918
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.918
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.921
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.922
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.923
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.923
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.926
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.927
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.927
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.927
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.929
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.930
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.931
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.931
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.933
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.935
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.935
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.935
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.937
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.939
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.939
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.939
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.942
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.943
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.943
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:15.969
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:16.995
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:16.995
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:16.997
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:16.997
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:16.998
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:16.998
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:16.999
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.000
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.000
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.000
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.002
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.002
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.002
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.002
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.004
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.004
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.004
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.005
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.006
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.006
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.007
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.007
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.008
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.009
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.009
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:09:17.026
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.306
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.306
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.309
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.310
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.310
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.311
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.313
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.314
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.314
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.314
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.317
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.318
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.318
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.318
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.320
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.321
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.321
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.322
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.324
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.325
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.325
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.325
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.328
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.329
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.329
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:10:03.348
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.288
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.288
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.290
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.291
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.291
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.291
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.292
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.293
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.293
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.293
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.294
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.295
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.295
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.295
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.297
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.297
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.297
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.297
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.298
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.299
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.299
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.299
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.300
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.301
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.301
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:17.316
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.358
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.358
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.360
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.361
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.362
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.362
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.364
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.365
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.366
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.366
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.368
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.369
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.369
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.369
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.371
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.372
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.372
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.372
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.374
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.375
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.375
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.375
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.377
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.378
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.378
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:12:18.395
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.930
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.930
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.931
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.933
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.933
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.933
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.934
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.936
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.936
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.936
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.937
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.938
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.938
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.938
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.939
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.940
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.940
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.940
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.941
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.942
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.942
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.942
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.943
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.944
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.944
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:42.959
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.019
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.019
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.023
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.025
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.025
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.025
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.027
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.028
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.028
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.029
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.030
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.031
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.031
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.031
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.033
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.034
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.034
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.034
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.035
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.036
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.036
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.036
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.038
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.038
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.038
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:14:44.057
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.225
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.225
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.227
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.228
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.228
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.228
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.230
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.231
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.231
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.232
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.233
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.234
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.234
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.235
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.236
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.237
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.237
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.237
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.239
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.240
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.240
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.240
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.242
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.243
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.243
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:33.264
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.112
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.112
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.114
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.116
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.116
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.116
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.117
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.118
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.118
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.118
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.120
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.121
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.121
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.121
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.123
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.124
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.124
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.124
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.126
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.126
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.127
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.127
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.128
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.129
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.129
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:24:54.149
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.591
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.591
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.593
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.594
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.594
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.594
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.595
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.596
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.596
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.636
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.637
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.638
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.638
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.638
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.639
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.640
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.640
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.640
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.641
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.642
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.642
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.642
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.643
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.643
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.643
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:39.655
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.627
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.627
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.630
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.631
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.631
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.636
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.637
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.637
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.638
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.639
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.639
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.639
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.641
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.642
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.642
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.642
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.644
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.644
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.644
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.644
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.646
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.646
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.646
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.646
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.648
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.648
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.648
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 5 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:28:40.658
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.220
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.220
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.222
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.222
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.222
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.223
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.224
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.225
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.226
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.226
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.228
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.228
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.228
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.228
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.230
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.230
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.231
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.231
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.232
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.233
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.233
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.233
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.234
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.234
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.234
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:51.250
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.299
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.300
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.301
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.303
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.303
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.303
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.304
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.305
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.305
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.305
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.307
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.307
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.307
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.307
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.308
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.309
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.309
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.309
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.310
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.311
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.311
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.311
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.312
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.313
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.313
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:29:52.333
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.411
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.412
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.414
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.415
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.415
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.415
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.417
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.418
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.418
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.419
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.421
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.422
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.422
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.422
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.424
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.424
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.424
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.424
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.426
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.426
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.426
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.426
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.428
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.428
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.428
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:14.449
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.496
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.496
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.498
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.499
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.500
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.500
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.501
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.502
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.502
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.503
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.504
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.505
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.505
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.505
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.507
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.507
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.508
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.508
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.509
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.510
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.510
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.510
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.512
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.512
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.513
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:31:15.534
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.050
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.051
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.052
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.053
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.053
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.053
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.055
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.056
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.056
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.056
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.057
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.057
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.057
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.058
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.059
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.059
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.059
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.059
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.060
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.061
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.061
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.061
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.062
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.063
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.063
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:49.083
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.399
+!MESSAGE Preparing classpath changed notification 003-hello-world-calc
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.399
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.401
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.402
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 003-hello-world-calc false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.402
+!MESSAGE Preparing classpath changed notification 008-shop
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.403
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.404
+!MESSAGE classpath=147 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.405
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 008-shop false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.405
+!MESSAGE Preparing classpath changed notification 009-many-to-many
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.405
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.407
+!MESSAGE classpath=149 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.407
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 009-many-to-many false 143
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.408
+!MESSAGE Preparing classpath changed notification 010-book-store-exam
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.408
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.409
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.410
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 010-book-store-exam false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.410
+!MESSAGE Preparing classpath changed notification 011-perlaikymas
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.410
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.411
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.412
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 011-perlaikymas false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.412
+!MESSAGE Preparing classpath changed notification 012-backspace-aplikacija
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.413
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.414
+!MESSAGE classpath=148 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.415
+!MESSAGE buffering callback sts4.classpath.VOMaLyyV 012-backspace-aplikacija false 142
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.415
+!MESSAGE executing callback sts4.classpath.VOMaLyyV 6 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-01-15 13:33:56.434
+!MESSAGE executing callback sts4.classpath.VOMaLyyV SUCCESS [done]

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/016-spring_security"/>
+			<item value="/home/pra-va/programavimas/005-technologijos/002-maven/005-hello-world-calc"/>
+			<item value="/home/pra-va/programavimas/005-technologijos/006-spring-security/spring-security-jdbc"/>
+			<item value="/home/pra-va/programavimas/005-technologijos/006-spring-security/001-spring-boot-security"/>
+			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/security"/>
+			<item value="/home/pra-va/programavimas/005-technologijos/005-exam/backspace-aplikacija"/>
+			<item value="/home/pra-va/programavimas/005-technologijos/005-exam/exam-template"/>
+			<item value="/home/pra-va/programavimas/005-technologijos/005-exam/backend-exam"/>
+			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/11-perlaikymas"/>
+			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/010-book-store"/>
+			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/exam-template"/>
+			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/009-many-to-many"/>
+			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/008-shop"/>
+			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/007-demo"/>
+			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/006-user-crud"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/008-shop"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="lt.prava.manytomany"/>
+			<item value="asd.asd"/>
+		</list>
+		<list key="groupId">
+			<item value="lt.prava"/>
+			<item value="asd"/>
+		</list>
+		<list key="artifactId">
+			<item value="manytomany"/>
+			<item value="asd"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+		<list key="archetypeGroupId">
+			<item value="org.springframework.boot"/>
+		</list>
+		<list key="archetypeArtifactId">
+			<item value="spring-boot-starter-parent"/>
+		</list>
+		<list key="archetypeVersion">
+			<item value="2.2.2.RELEASE"/>
+		</list>
+		<list key="repositoryUrl">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="555"/>
+		<item key="x" value="2960"/>
+		<item key="y" value="319"/>
+	</section>
+</section>

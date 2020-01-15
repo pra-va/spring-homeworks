@@ -1,0 +1,32 @@
+package lt.prava.users.model;
+
+import javax.persistence.CascadeType;
+import javax.persistence.Column;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
+import javax.validation.constraints.Email;
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Size;
+
+public class CreateUserModel {
+	@NotBlank
+	@Id
+	@Column
+	private String username;
+
+	@NotBlank
+	@Size(min = 6)
+	@Column
+	private String password;
+
+	@NotBlank
+	@Email
+	@Column
+	private String email;
+
+	@ManyToOne(cascade = { CascadeType.MERGE, CascadeType.DETACH })
+	@JoinColumn(name = "ROLE_ID")
+	private Role role;
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Product.java&apos; to &apos;003-hello-world-calc/src/main/java/it.akademija&apos;&#x0A;- Original project: &apos;002-FirstSpringProject-annotations&apos;&#x0A;- Destination element: &apos;003-hello-world-calc/src/main/java/it.akademija&apos;&#x0A;- Original element: &apos;lt.itmokymai.spring.Product.java&apos;" description="Copy compilation unit" destination="=003-hello-world-calc/src\/main\/java&lt;it.akademija" element1="/src\/main\/java&lt;lt.itmokymai.spring{Product.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1575749937644" units="1" version="1.0"/>
+</session>

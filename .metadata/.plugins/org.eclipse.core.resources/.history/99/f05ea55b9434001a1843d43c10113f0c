@@ -1,0 +1,55 @@
+package io.javabrains.springbootsecurity;
+
+import org.springframework.context.annotation.Bean;
+import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
+import org.springframework.security.config.annotation.web.builders.HttpSecurity;
+import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
+import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
+import org.springframework.security.crypto.password.NoOpPasswordEncoder;
+import org.springframework.security.crypto.password.PasswordEncoder;
+
+/**
+ * Šita klasė yra naudojama tam, kad sukonfiguruotume spring security. Prieš tai
+ * reikia, kad būtų įkelta spring security dependency pom.xml faile.
+ * 
+ * @author pra-va
+ *
+ */
+
+@EnableWebSecurity
+public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
+
+	@Override
+	protected void configure(AuthenticationManagerBuilder auth) throws Exception {
+		/**
+		 * AUTHENTICATION
+		 * įjungiame auth objektui .inMemoryAuthentication. Overridiname configure
+		 * klasę.
+		 */
+
+		auth.inMemoryAuthentication().withUser("blah").password("blah").roles("USER").and().withUser("foo")
+				.password("foo").roles("ADMIN");
+	}
+
+	/**
+	 * Spring security privaloma naudoti slaptažodžių hashinimą. Spring security
+	 * automatiškai ieško klasės, kuri grąžintų PasswordEncoder objektą, kuris būtų
+	 * užkodavęs slaptažodį.
+	 * 
+	 * @return
+	 */
+	@Bean
+	public PasswordEncoder getPasswordEncoder() {
+		return NoOpPasswordEncoder.getInstance();
+	}
+
+	/**
+	 * AUTHORIZATION
+	 * Kokios rolės bus prileistos prie kurių url lokacijų. hasRole - vienas vartotojas  hasAnyRole - bet kuri iš pateiktų rolių. Galima naudoti wildcards.
+	 */
+	@Override
+	protected void configure(HttpSecurity http) throws Exception {
+		http.authorizeRequests().antMatchers("/**").has("ADMIN").and().formLogin();
+	}
+
+}

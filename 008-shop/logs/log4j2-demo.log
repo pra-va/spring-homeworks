@@ -1,0 +1,80 @@
+2019-12-18 08:47:27.941  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : Starting App on ThinkPad-L580 with PID 3061 (/home/pra-va/programavimas/005-technologijos/003-spring/008-shop/target/classes started by pra-va in /home/pra-va/programavimas/005-technologijos/003-spring/008-shop)
+2019-12-18 08:47:27.947 DEBUG ThinkPad-L580
+			--- [           main] l.p.App                                  : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-18 08:47:27.947  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : No active profile set, falling back to default profiles: default
+2019-12-18 21:37:40.186  INFO ThinkPad-L580
+			--- [           main] l.p.ShopApplicationTests                 : Starting ShopApplicationTests on ThinkPad-L580 with PID 12411 (started by pra-va in /home/pra-va/programavimas/005-technologijos/003-spring/008-shop)
+2019-12-18 21:37:40.192 DEBUG ThinkPad-L580
+			--- [           main] l.p.ShopApplicationTests                 : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-18 21:37:40.193  INFO ThinkPad-L580
+			--- [           main] l.p.ShopApplicationTests                 : No active profile set, falling back to default profiles: default
+2019-12-18 22:08:15.842  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : Starting App on ThinkPad-L580 with PID 15035 (/home/pra-va/programavimas/005-technologijos/003-spring/008-shop/target/classes started by pra-va in /home/pra-va/programavimas/005-technologijos/003-spring/008-shop)
+2019-12-18 22:08:15.884 DEBUG ThinkPad-L580
+			--- [           main] l.p.App                                  : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-18 22:08:15.885  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : No active profile set, falling back to default profiles: default
+2019-12-18 22:09:06.008  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : Starting App on ThinkPad-L580 with PID 15109 (/home/pra-va/programavimas/005-technologijos/003-spring/008-shop/target/classes started by pra-va in /home/pra-va/programavimas/005-technologijos/003-spring/008-shop)
+2019-12-18 22:09:06.020 DEBUG ThinkPad-L580
+			--- [           main] l.p.App                                  : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-18 22:09:06.020  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : No active profile set, falling back to default profiles: default
+2019-12-18 22:11:06.766  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : Starting App on ThinkPad-L580 with PID 15288 (/home/pra-va/programavimas/005-technologijos/003-spring/008-shop/target/classes started by pra-va in /home/pra-va/programavimas/005-technologijos/003-spring/008-shop)
+2019-12-18 22:11:06.773 DEBUG ThinkPad-L580
+			--- [           main] l.p.App                                  : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-18 22:11:06.774  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : No active profile set, falling back to default profiles: default
+2019-12-18 22:13:32.841  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : Starting App on ThinkPad-L580 with PID 15599 (/home/pra-va/programavimas/005-technologijos/003-spring/008-shop/target/classes started by pra-va in /home/pra-va/programavimas/005-technologijos/003-spring/008-shop)
+2019-12-18 22:13:32.849 DEBUG ThinkPad-L580
+			--- [           main] l.p.App                                  : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-18 22:13:32.849  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : No active profile set, falling back to default profiles: default
+2019-12-18 22:14:40.212  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : Starting App on ThinkPad-L580 with PID 15684 (/home/pra-va/programavimas/005-technologijos/003-spring/008-shop/target/classes started by pra-va in /home/pra-va/programavimas/005-technologijos/003-spring/008-shop)
+2019-12-18 22:14:40.217 DEBUG ThinkPad-L580
+			--- [           main] l.p.App                                  : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-18 22:14:40.217  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : No active profile set, falling back to default profiles: default
+2019-12-18 22:16:23.203  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : Starting App on ThinkPad-L580 with PID 15855 (/home/pra-va/programavimas/005-technologijos/003-spring/008-shop/target/classes started by pra-va in /home/pra-va/programavimas/005-technologijos/003-spring/008-shop)
+2019-12-18 22:16:23.209 DEBUG ThinkPad-L580
+			--- [           main] l.p.App                                  : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-18 22:16:23.209  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : No active profile set, falling back to default profiles: default
+2019-12-18 22:17:50.327  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : Starting App on ThinkPad-L580 with PID 16027 (/home/pra-va/programavimas/005-technologijos/003-spring/008-shop/target/classes started by pra-va in /home/pra-va/programavimas/005-technologijos/003-spring/008-shop)
+2019-12-18 22:17:50.334 DEBUG ThinkPad-L580
+			--- [           main] l.p.App                                  : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-18 22:17:50.334  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : No active profile set, falling back to default profiles: default
+2019-12-18 22:17:56.157  INFO ThinkPad-L580
+			--- [           main] l.p.p.s.ProductService                   : Product service CREATED
+2019-12-18 22:17:56.161  INFO ThinkPad-L580
+			--- [           main] l.p.p.c.ProductController                : Product controller CREATED
+2019-12-18 22:17:56.824  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : Started App in 6.739 seconds (JVM running for 7.28)
+2019-12-18 22:19:09.782  INFO ThinkPad-L580
+			--- [on(3)-127.0.0.1] l.p.p.c.ProductController                : Product controller DESTROYED
+2019-12-18 22:19:09.783  INFO ThinkPad-L580
+			--- [on(3)-127.0.0.1] l.p.p.s.ProductService                   : Product service DESTROYED
+2019-12-18 22:22:15.555  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : Starting App on ThinkPad-L580 with PID 16995 (/home/pra-va/programavimas/005-technologijos/003-spring/008-shop/target/classes started by pra-va in /home/pra-va/programavimas/005-technologijos/003-spring/008-shop)
+2019-12-18 22:22:15.591 DEBUG ThinkPad-L580
+			--- [           main] l.p.App                                  : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-18 22:22:15.591  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : No active profile set, falling back to default profiles: default
+2019-12-18 22:22:21.485  INFO ThinkPad-L580
+			--- [           main] l.p.p.s.ProductService                   : Product service CREATED
+2019-12-18 22:22:21.491  INFO ThinkPad-L580
+			--- [           main] l.p.p.c.ProductController                : Product controller CREATED
+2019-12-18 22:22:22.132  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : Started App in 6.789 seconds (JVM running for 7.356)
+2019-12-18 22:25:33.307  INFO ThinkPad-L580
+			--- [on(4)-127.0.0.1] l.p.p.c.ProductController                : Product controller DESTROYED
+2019-12-18 22:25:33.307  INFO ThinkPad-L580
+			--- [on(4)-127.0.0.1] l.p.p.s.ProductService                   : Product service DESTROYED

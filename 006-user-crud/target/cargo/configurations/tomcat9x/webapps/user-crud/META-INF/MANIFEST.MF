@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot Blank Project (from https://github.c
+ om/making/spring-boot-blank)
+Implementation-Version: 1.0-SNAPSHOT
+Start-Class: it.akademija.HelloWorld
+Spring-Boot-Classes: WEB-INF/classes/
+Spring-Boot-Lib: WEB-INF/lib/
+Build-Jdk-Spec: 1.8
+Spring-Boot-Version: 2.2.1.RELEASE
+Created-By: Maven Archiver 3.4.0
+Main-Class: org.springframework.boot.loader.WarLauncher
+

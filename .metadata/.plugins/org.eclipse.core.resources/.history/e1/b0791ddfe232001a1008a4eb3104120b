@@ -1,0 +1,12 @@
+package lt.prava.users.model;
+
+public class CreateUserModel {
+	private String username;
+
+	private String password;
+
+	private String email;
+
+	private Role role;
+
+}

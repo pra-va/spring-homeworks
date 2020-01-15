@@ -1,0 +1,16 @@
+2019-12-20 20:00:09.453  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : Starting App v0.0.1-SNAPSHOT on ThinkPad-L580 with PID 4304 (/home/pra-va/programavimas/005-technologijos/003-spring/008-shop/target/cargo/configurations/tomcat9x/webapps/shop/WEB-INF/classes started by pra-va in /home/pra-va/programavimas/005-technologijos/003-spring/008-shop/target/cargo/configurations/tomcat9x)
+2019-12-20 20:00:09.465 DEBUG ThinkPad-L580
+			--- [           main] l.p.App                                  : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2019-12-20 20:00:09.467  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : No active profile set, falling back to default profiles: default
+2019-12-20 20:00:17.035  INFO ThinkPad-L580
+			--- [           main] l.p.p.s.ProductService                   : Product service CREATED
+2019-12-20 20:00:17.042  INFO ThinkPad-L580
+			--- [           main] l.p.p.c.ProductController                : Product controller CREATED
+2019-12-20 20:00:18.003  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : Started App in 9.039 seconds (JVM running for 11.691)
+2019-12-20 20:06:27.997  INFO ThinkPad-L580
+			--- [extShutdownHook] l.p.p.c.ProductController                : Product controller DESTROYED
+2019-12-20 20:06:27.997  INFO ThinkPad-L580
+			--- [extShutdownHook] l.p.p.s.ProductService                   : Product service DESTROYED

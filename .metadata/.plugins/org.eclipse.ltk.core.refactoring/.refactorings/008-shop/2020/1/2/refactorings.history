@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CorsConfig.java&apos; to &apos;12-security/src/main/java/lt.prava&apos;&#x0A;- Original project: &apos;008-shop&apos;&#x0A;- Destination element: &apos;12-security/src/main/java/lt.prava&apos;&#x0A;- Original element: &apos;lt.pra_va.CorsConfig.java&apos;" description="Copy compilation unit" destination="=12-security/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;lt.prava" element1="/src\/main\/java&lt;lt.pra_va{CorsConfig.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1578490138495" units="1" version="1.0"/>
+</session>

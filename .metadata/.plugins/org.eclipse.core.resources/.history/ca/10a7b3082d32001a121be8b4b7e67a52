@@ -1,0 +1,5 @@
+package lt.prava.users.services;
+
+public class UserService {
+
+}

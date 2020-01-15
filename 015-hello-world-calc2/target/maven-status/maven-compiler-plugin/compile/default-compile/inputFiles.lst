@@ -1,0 +1,13 @@
+/home/pra-va/programavimas/005-technologijos/003-spring/003-hello-world-calc/src/main/java/it/akademija/model/CreateUserCommand.java
+/home/pra-va/programavimas/005-technologijos/003-spring/003-hello-world-calc/src/main/java/it/akademija/PagingData.java
+/home/pra-va/programavimas/005-technologijos/003-spring/003-hello-world-calc/src/main/java/it/akademija/dao/DBUsersRepository.java
+/home/pra-va/programavimas/005-technologijos/003-spring/003-hello-world-calc/src/main/java/it/akademija/CorsConfig.java
+/home/pra-va/programavimas/005-technologijos/003-spring/003-hello-world-calc/src/main/java/it/akademija/App.java
+/home/pra-va/programavimas/005-technologijos/003-spring/003-hello-world-calc/src/main/java/it/akademija/controller/UserController.java
+/home/pra-va/programavimas/005-technologijos/003-spring/003-hello-world-calc/src/main/java/it/akademija/service/JpaUserService.java
+/home/pra-va/programavimas/005-technologijos/003-spring/003-hello-world-calc/src/main/java/it/akademija/Product.java
+/home/pra-va/programavimas/005-technologijos/003-spring/003-hello-world-calc/src/main/java/it/akademija/dao/UserData.java
+/home/pra-va/programavimas/005-technologijos/003-spring/003-hello-world-calc/src/main/java/it/akademija/service/UserService.java
+/home/pra-va/programavimas/005-technologijos/003-spring/003-hello-world-calc/src/main/java/it/akademija/dao/UserRepository.java
+/home/pra-va/programavimas/005-technologijos/003-spring/003-hello-world-calc/src/main/java/it/akademija/model/User.java
+/home/pra-va/programavimas/005-technologijos/003-spring/003-hello-world-calc/src/main/java/it/akademija/AppConfig.java

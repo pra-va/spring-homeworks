@@ -1,0 +1,8 @@
+package lt.prava;
+
+import org.springframework.stereotype.Component;
+
+@Component("restAuthenticationEntryPoint")
+public class SecurityEntryPoint {
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;lt.prava.manytomany&apos; to &apos;lt.prava&apos;&#x0A;- Original project: &apos;manytomany&apos;&#x0A;- Original element: &apos;manytomany/src/main/java/lt.prava.manytomany&apos;&#x0A;- Renamed element: &apos;manytomany/src/main/java/lt.prava&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;lt.prava.manytomany&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;lt.prava.manytomany" name="lt.prava" qualified="false" references="true" stamp="1576313223842" textual="false" version="1.0"/>
+</session>

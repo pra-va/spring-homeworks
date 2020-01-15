@@ -1,0 +1,57 @@
+#CREATE SPRING BOOT PROJECT
+ mvn archetype:generate -DgroupId=lt.pra_va -DartifactId=crud -DarchetypeGroupId=am.ik.archetype -DarchetypeArtifactId=spring-boot-blank-archetype -DarchetypeVersion=1.0.6 -DinteractiveMode=false
+
+ mvn spring-boot:run -Drun.jvmArguments='-Dserver.port=8081'
+ 
+ mvn clean install org.codehaus.cargo:cargo-maven2-plugin:1.7.7:run -Dcargo.maven.containerId=tomcat9x -Dcargo.servlet.port=8081 -Dcargo.maven.containerUrl=http://repo1.maven.org/maven2/org/apache/tomcat/tomcat/9.0.29/tomcat-9.0.29.zip
+
+
+
+
+#CREATE JAVA PROJECT
+ mvn archetype:generate -DgroupId=lt.mokymai -DartifactId=SecondMavenProject -Dpackage=lt.mokymai.maven -Dversion=1.0-SNAPSHOT -DarchetypeArtifactId=maven-archetype-quickstart
+
+
+
+
+
+#CREATE EMPTY MAVEN PROJECT
+mvn archetype:generate -DgroupId=lt.itmokymai.spring -DartifactId=FirstSpringProject -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+
+
+
+
+
+#SPRING CORE LIBRARY
+<dependency>
+<groupId>org.springframework</groupId>
+<artifactId>spring-context</artifactId>
+<version>5.2.1.RELEASE</version>
+</dependency>
+
+
+
+
+#SPRING JUNIT TESTS
+<dependency>
+<groupId>org.springframework</groupId>
+<artifactId>spring-test</artifactId>
+<version>5.2.1.RELEASE</version>
+<scope>test</scope>
+</dependency>
+
+<dependency>
+<groupId>junit</groupId>
+<artifactId>junit</artifactId>
+<version>4.12</version>
+<scope>test</scope>
+</dependency>
+
+
+
+#CREATE
+curl -d '{"id": "1", "title": "potato", "imageUrl": "www.potato-photos.com", "price": "123.21", "quantity": "11520", "description": "Some juicy potatoes"}' -H "Content-Type: application/json" -X "POST" http://localhost:8080/api/users
+
+#DELETE
+curl -X "DELETE" http://localhost:8080/api/users/asd

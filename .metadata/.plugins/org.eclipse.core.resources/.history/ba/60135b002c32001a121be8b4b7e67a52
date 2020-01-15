@@ -1,0 +1,11 @@
+package lt.prava.users.model;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity(name = "User")
+@Table(name = "user")
+public class User {
+	private String username;
+
+}
