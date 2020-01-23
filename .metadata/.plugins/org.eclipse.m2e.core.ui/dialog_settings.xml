@@ -2,6 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/pra-va/programavimas/06-projektas/backend"/>
+			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/019-spring-security-jwt"/>
+			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/018-sprint-security-ldap"/>
+			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/017-spring-security-jpa"/>
 			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/016-spring_security"/>
 			<item value="/home/pra-va/programavimas/005-technologijos/002-maven/005-hello-world-calc"/>
 			<item value="/home/pra-va/programavimas/005-technologijos/006-spring-security/spring-security-jdbc"/>
@@ -13,10 +17,6 @@
 			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/11-perlaikymas"/>
 			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/010-book-store"/>
 			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/exam-template"/>
-			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/009-many-to-many"/>
-			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/008-shop"/>
-			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/007-demo"/>
-			<item value="/home/pra-va/programavimas/005-technologijos/003-spring/006-user-crud"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

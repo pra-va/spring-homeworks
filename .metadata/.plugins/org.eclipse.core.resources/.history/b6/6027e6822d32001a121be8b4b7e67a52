@@ -1,5 +1,0 @@
-package lt.prava.users.dao;
-
-public interface UserRepository {
-
-}

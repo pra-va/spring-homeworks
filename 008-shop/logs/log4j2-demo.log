@@ -78,3 +78,35 @@
 			--- [on(4)-127.0.0.1] l.p.p.c.ProductController                : Product controller DESTROYED
 2019-12-18 22:25:33.307  INFO ThinkPad-L580
 			--- [on(4)-127.0.0.1] l.p.p.s.ProductService                   : Product service DESTROYED
+2020-01-20 14:29:46.016  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : Starting App on ThinkPad-L580 with PID 15151 (/home/pra-va/programavimas/005-technologijos/003-spring/008-shop/target/classes started by pra-va in /home/pra-va/programavimas/005-technologijos/003-spring/008-shop)
+2020-01-20 14:29:46.028 DEBUG ThinkPad-L580
+			--- [           main] l.p.App                                  : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-20 14:29:46.029  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : No active profile set, falling back to default profiles: default
+2020-01-20 14:29:53.531  INFO ThinkPad-L580
+			--- [           main] l.p.p.s.ProductService                   : Product service CREATED
+2020-01-20 14:29:53.537  INFO ThinkPad-L580
+			--- [           main] l.p.p.c.ProductController                : Product controller CREATED
+2020-01-20 14:29:54.418  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : Started App in 8.778 seconds (JVM running for 9.733)
+2020-01-20 14:30:20.583  INFO ThinkPad-L580
+			--- [on(3)-127.0.0.1] l.p.p.c.ProductController                : Product controller DESTROYED
+2020-01-20 14:30:20.583  INFO ThinkPad-L580
+			--- [on(3)-127.0.0.1] l.p.p.s.ProductService                   : Product service DESTROYED
+2020-01-21 18:15:01.668  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : Starting App on ThinkPad-L580 with PID 10154 (/home/pra-va/programavimas/005-technologijos/003-spring/008-shop/target/classes started by pra-va in /home/pra-va/programavimas/005-technologijos/003-spring/008-shop)
+2020-01-21 18:15:01.685 DEBUG ThinkPad-L580
+			--- [           main] l.p.App                                  : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-21 18:15:01.687  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : No active profile set, falling back to default profiles: default
+2020-01-21 18:15:09.579  INFO ThinkPad-L580
+			--- [           main] l.p.p.s.ProductService                   : Product service CREATED
+2020-01-21 18:15:09.587  INFO ThinkPad-L580
+			--- [           main] l.p.p.c.ProductController                : Product controller CREATED
+2020-01-21 18:15:10.647  INFO ThinkPad-L580
+			--- [           main] l.p.App                                  : Started App in 9.34 seconds (JVM running for 10.176)
+2020-01-21 18:17:16.436  INFO ThinkPad-L580
+			--- [on(3)-127.0.0.1] l.p.p.c.ProductController                : Product controller DESTROYED
+2020-01-21 18:17:16.436  INFO ThinkPad-L580
+			--- [on(3)-127.0.0.1] l.p.p.s.ProductService                   : Product service DESTROYED

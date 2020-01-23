@@ -148,9 +148,9 @@
 	<section name="DialogBounds_OverrideMethodDialog">
 		<item key="DIALOG_X_ORIGIN" value="547"/>
 		<item key="DIALOG_Y_ORIGIN" value="338"/>
-		<item key="DIALOG_WIDTH" value="658"/>
-		<item key="DIALOG_HEIGHT" value="645"/>
-		<item key="DIALOG_FONT_NAME" value="1|Noto Sans|10.0|0|GTK|1|"/>
+		<item key="DIALOG_WIDTH" value="637"/>
+		<item key="DIALOG_HEIGHT" value="544"/>
+		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
 	</section>
 	<section name="ClasspathContainerSelectionPage">
 		<item key="index" value="1"/>

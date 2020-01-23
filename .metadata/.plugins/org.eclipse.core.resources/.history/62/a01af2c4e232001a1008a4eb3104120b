@@ -1,5 +1,0 @@
-package lt.prava.users.model;
-
-public class CreateRoleModel {
-
-}

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="ImportExportAction">
-		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.m2e.core.wizards.Maven2ImportWizard"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.Preferences"/>
 		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
-			<item value="org.eclipse.m2e"/>
+			<item value="org.eclipse.ui.Basic"/>
 		</list>
 	</section>
 	<section name="WorkbenchPreferenceDialogSettings">
-		<item key="DIALOG_X_ORIGIN" value="645"/>
-		<item key="DIALOG_Y_ORIGIN" value="326"/>
+		<item key="DIALOG_X_ORIGIN" value="1079"/>
+		<item key="DIALOG_Y_ORIGIN" value="466"/>
 	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
 		<item key="dialogHeight" value="-1"/>
@@ -26,6 +26,14 @@
 		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="PreferencesImportWizard">
+		<item key="" value="/home/pra-va/Downloads/theme-309.epf"/>
+		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/home/pra-va/Downloads/theme-309.epf"/>
+			<item value="/home/pra-va/Downloads/theme-4550.epf"/>
+			<item value="/home/pra-va/Downloads/theme-128.epf"/>
 		</list>
 	</section>
 </section>
